@@ -1,6 +1,6 @@
 # Documentation
 
-This directory contains all documentation for the HTTP3 Kubernetes Masters thesis project.
+This directory contains all documentation for the HTTP/3 Kubernetes Masters thesis project.
 
 ## Contents
 

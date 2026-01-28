@@ -1,6 +1,6 @@
 # Source Code
 
-This directory contains the source code for the HTTP3 implementation.
+This directory contains the source code for the HTTP/3 implementation.
 
 ## Structure
 

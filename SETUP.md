@@ -2,7 +2,7 @@
 
 ## Cross-Platform Repository Setup
 
-This guide helps you set up the HTTP3 Kubernetes Masters thesis project on any platform.
+This guide helps you set up the HTTP/3 Kubernetes Masters thesis project on any platform.
 
 ## Prerequisites
 

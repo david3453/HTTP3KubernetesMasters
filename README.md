@@ -30,13 +30,14 @@ git pull origin main
 HTTP3KubernetesMasters/
 ├── .editorconfig          # Editor configuration for consistent code style
 ├── .gitignore             # Excludes platform-specific and build files
-├── CONTRIBUTING.md        # Development environment setup guide
+├── SETUP.md               # Development environment setup guide
+├── CONTRIBUTING.md        # Development guidelines and workflow
 └── README.md              # This file
 ```
 
 ## Development Environment
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed setup instructions for your platform.
+See [SETUP.md](SETUP.md) for detailed setup instructions for your platform, and [CONTRIBUTING.md](CONTRIBUTING.md) for development guidelines.
 
 ### Key Features for Cross-Platform Work
 

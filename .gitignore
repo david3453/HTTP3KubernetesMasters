@@ -61,7 +61,7 @@ kubeconfig
 tmp/
 
 # Docker
-.dockerignore
+# Note: .dockerignore should be committed to version control
 
 # Python
 *.egg-info/
@@ -70,7 +70,7 @@ tmp/
 htmlcov/
 
 # Go
-go.sum
+# Note: go.sum should be committed for reproducible builds
 
 # Java/Maven
 *.jar
