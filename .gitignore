@@ -1,0 +1,81 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Build Artifacts
+/build/
+/dist/
+/target/
+/bin/
+/obj/
+*.class
+*.o
+*.pyc
+*.pyo
+__pycache__/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Dependency directories
+node_modules/
+vendor/
+venv/
+env/
+.env
+
+# Kubernetes secrets and configs (should not be committed)
+*secret*.yaml
+*credentials*.yaml
+kubeconfig
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+.cache/
+tmp/
+
+# Docker
+.dockerignore
+
+# Python
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Go
+go.sum
+
+# Java/Maven
+*.jar
+*.war
+*.ear
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
